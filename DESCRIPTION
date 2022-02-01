@@ -1,0 +1,17 @@
+Package: LIFE230
+Title: A Package With Data and Tutorials for LIFE230
+Version: 0.0.0.9000
+Authors@R: 
+    person("Chris", "Mitchell", , "cmitch@liv.ac.uk", 
+    role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package contains data and tutorials associated with the LIFE230 practical module at the University of Liverpool.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: ape
+Depends: 
+    R (>= 2.10)
+LazyData: true
